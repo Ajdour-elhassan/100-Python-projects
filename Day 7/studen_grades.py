@@ -1,4 +1,3 @@
-
 students_scores = {
   'bob' : 78 ,
   'Anna' : 90 ,
@@ -22,11 +21,3 @@ for key in students_scores :
     
 print(students_grades)
       
-    
-    
-    
-
-  
-  
-
-
